@@ -246,77 +246,77 @@ global-client-fingerprint: chrome
 rules:
 - MATCH,☢️ALL IN☢️
 rule-providers:
-  NPX:
+  XVPid:
     type: http
     behavior: classical
     path: "./XVPid.yaml"
     url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPid.yaml
     interval: 86400
 rule-providers:
-  NPX1:
+  XVPid1:
     type: http
     behavior: classical
     path: "./XVPid1.yaml"
     url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPid1.yaml
     interval: 86400
 rule-providers:
-  NPX2:
+  XVPid2:
     type: http
     behavior: classical
     path: "./XVPid2.yaml"
     url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPid2.yaml
     interval: 86400
 rule-providers:
-  NPX3:
+  XVPid3:
     type: http
     behavior: classical
     path: "./XVPid3.yaml"
     url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPid3.yaml
     interval: 86400
 rule-providers:
-  NPX4:
+  XVPml:
     type: http
     behavior: classical
     path: "./XVPml.yaml"
     url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPml.yaml
     interval: 86400
 rule-providers:
-  NPX5:
+  XVPml1:
     type: http
     behavior: classical
     path: "./XVPm1.yaml"
     url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPml1.yaml
     interval: 86400
 rule-providers:
-  NPX6:
+  XVPru:
     type: http
     behavior: classical
     path: "./XVPru.yaml"
     url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPru.yaml
     interval: 86400
 rule-providers:
-  NPX7:
+  XVPru1:
     type: http
     behavior: classical
     path: "./XVPru1.yaml"
     url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPru1.yaml
     interval: 86400
 rule-providers:
-  NPX8:
+  XVPsg:
     type: http
     behavior: classical
     path: "./XVPsg.yaml"
     url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPsg.yaml
     interval: 86400
 rule-providers:
-  NPX9:
+  XVPsg1:
     type: http
     behavior: classical
     path: "./XVPsg1.yaml"
     url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPsg1.yaml
     interval: 86400
 rule-providers:
-  NPX10:
+  XVPde:
     type: http
     behavior: classical
     path: "./XVPde.yaml"
