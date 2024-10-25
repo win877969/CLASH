@@ -95,7 +95,7 @@ proxy-groups:
   url: http://www.gstatic.com/generate_204
   interval: '30'
   tolerance: '15'
-- name: ☢️🇮🇩☢️
+- name: ☢️🇮🇩 V1☢️
   type: load-balance
   disable-udp: false
   use:
@@ -103,7 +103,7 @@ proxy-groups:
   url: http://www.gstatic.com/generate_204
   interval: '30'
   tolerance: '15'
-- name: ☢️🇮🇩☢️
+- name: ☢️🇮🇩 V2☢️
   type: load-balance
   disable-udp: false
   use:
@@ -111,7 +111,7 @@ proxy-groups:
   url: http://www.gstatic.com/generate_204
   interval: '30'
   tolerance: '15'
-- name: ☢️🇮🇩☢️
+- name: ☢️🇮🇩 V3☢️
   type: load-balance
   disable-udp: false
   use:
@@ -119,7 +119,7 @@ proxy-groups:
   url: http://www.gstatic.com/generate_204
   interval: '30'
   tolerance: '15'
-- name: ☢️🇮🇩☢️
+- name: ☢️🇮🇩 V4☢️
   type: load-balance
   disable-udp: false
   use:
@@ -127,7 +127,7 @@ proxy-groups:
   url: http://www.gstatic.com/generate_204
   interval: '30'
   tolerance: '15'
-- name: ☢️🇲🇾☢️
+- name: ☢️🇲🇾 V1☢️
   type: load-balance
   disable-udp: false
   use:
@@ -135,7 +135,7 @@ proxy-groups:
   url: http://www.gstatic.com/generate_204
   interval: '30'
   tolerance: '15'
-- name: ☢️🇲🇾☢️
+- name: ☢️🇲🇾 V2☢️
   type: load-balance
   disable-udp: false
   use:
@@ -143,7 +143,7 @@ proxy-groups:
   url: http://www.gstatic.com/generate_204
   interval: '30'
   tolerance: '15'
-- name: ☢️🇸🇬☢️
+- name: ☢️🇸🇬 V1☢️
   type: load-balance
   disable-udp: false
   use:
@@ -151,7 +151,7 @@ proxy-groups:
   url: http://www.gstatic.com/generate_204
   interval: '30'
   tolerance: '15'
-- name: ☢️🇸🇬☢️
+- name: ☢️🇸🇬 V2☢️
   type: load-balance
   disable-udp: false
   use:
@@ -159,7 +159,7 @@ proxy-groups:
   url: http://www.gstatic.com/generate_204
   interval: '30'
   tolerance: '15'
-- name: ☢️🇷🇺☢️
+- name: ☢️🇷🇺 V1☢️
   type: load-balance
   disable-udp: false
   use:
@@ -167,7 +167,7 @@ proxy-groups:
   url: http://www.gstatic.com/generate_204
   interval: '30'
   tolerance: '15'
-- name: ☢️🇷🇺☢️
+- name: ☢️🇷🇺 V2☢️
   type: load-balance
   disable-udp: false
   use:
@@ -175,7 +175,7 @@ proxy-groups:
   url: http://www.gstatic.com/generate_204
   interval: '30'
   tolerance: '15'
-- name: ☢️🇩🇪☢️
+- name: ☢️🇩🇪 V1☢️
   type: load-balance
   disable-udp: false
   use:
