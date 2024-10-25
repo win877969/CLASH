@@ -249,76 +249,76 @@ rule-providers:
   NPX:
     type: http
     behavior: classical
-    path: "./NPXid.yaml"
-    url: https://raw.githubusercontent.com/win877969/CLSAH/main/NPX/NPXid.yaml
+    path: "./XVPid.yaml"
+    url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPid.yaml
     interval: 86400
 rule-providers:
   NPX1:
     type: http
     behavior: classical
-    path: "./NPXid1.yaml"
-    url: https://raw.githubusercontent.com/win877969/CLSAH/main/NPX/NPXid1.yaml
+    path: "./XVPid1.yaml"
+    url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPid1.yaml
     interval: 86400
 rule-providers:
   NPX2:
     type: http
     behavior: classical
-    path: "./NPXid2.yaml"
-    url: https://raw.githubusercontent.com/win877969/CLSAH/main/NPX/NPXid2.yaml
+    path: "./XVPid2.yaml"
+    url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPid2.yaml
     interval: 86400
 rule-providers:
   NPX3:
     type: http
     behavior: classical
-    path: "./NPXid3.yaml"
-    url: https://raw.githubusercontent.com/win877969/CLSAH/main/NPX/NPXid3.yaml
+    path: "./XVPid3.yaml"
+    url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPid3.yaml
     interval: 86400
 rule-providers:
   NPX4:
     type: http
     behavior: classical
-    path: "./NPXml.yaml"
-    url: https://raw.githubusercontent.com/win877969/CLSAH/main/NPX/NPXml.yaml
+    path: "./XVPml.yaml"
+    url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPml.yaml
     interval: 86400
 rule-providers:
   NPX5:
     type: http
     behavior: classical
-    path: "./NPXm1.yaml"
-    url: https://raw.githubusercontent.com/win877969/CLSAH/main/NPX/NPXml1.yaml
+    path: "./XVPm1.yaml"
+    url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPml1.yaml
     interval: 86400
 rule-providers:
   NPX6:
     type: http
     behavior: classical
-    path: "./NPXru.yaml"
-    url: https://raw.githubusercontent.com/win877969/CLSAH/main/NPX/NPXru.yaml
+    path: "./XVPru.yaml"
+    url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPru.yaml
     interval: 86400
 rule-providers:
   NPX7:
     type: http
     behavior: classical
-    path: "./NPXru1.yaml"
-    url: https://raw.githubusercontent.com/win877969/CLSAH/main/NPX/NPXru1.yaml
+    path: "./XVPru1.yaml"
+    url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPru1.yaml
     interval: 86400
 rule-providers:
   NPX8:
     type: http
     behavior: classical
-    path: "./NPXsg.yaml"
-    url: https://raw.githubusercontent.com/win877969/CLSAH/main/NPX/NPXsg.yaml
+    path: "./XVPsg.yaml"
+    url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPsg.yaml
     interval: 86400
 rule-providers:
   NPX9:
     type: http
     behavior: classical
-    path: "./NPXsg1.yaml"
-    url: https://raw.githubusercontent.com/win877969/CLSAH/main/NPX/NPXsg1.yaml
+    path: "./XVPsg1.yaml"
+    url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPsg1.yaml
     interval: 86400
 rule-providers:
   NPX10:
     type: http
     behavior: classical
-    path: "./NPXde.yaml"
-    url: https://raw.githubusercontent.com/win877969/CLSAH/main/NPX/NPXde.yaml
+    path: "./XVPde.yaml"
+    url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPde.yaml
     interval: 86400
