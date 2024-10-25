@@ -252,70 +252,70 @@ rule-providers:
     path: "./XVPid.yaml"
     url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPid.yaml
     interval: 86400
-rule-providers:
+#rule-providers:
   XVPid1:
     type: http
     behavior: classical
     path: "./XVPid1.yaml"
     url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPid1.yaml
     interval: 86400
-rule-providers:
+#rule-providers:
   XVPid2:
     type: http
     behavior: classical
     path: "./XVPid2.yaml"
     url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPid2.yaml
     interval: 86400
-rule-providers:
+#rule-providers:
   XVPid3:
     type: http
     behavior: classical
     path: "./XVPid3.yaml"
     url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPid3.yaml
     interval: 86400
-rule-providers:
+#rule-providers:
   XVPml:
     type: http
     behavior: classical
     path: "./XVPml.yaml"
     url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPml.yaml
     interval: 86400
-rule-providers:
+#rule-providers:
   XVPml1:
     type: http
     behavior: classical
     path: "./XVPm1.yaml"
     url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPml1.yaml
     interval: 86400
-rule-providers:
+#rule-providers:
   XVPru:
     type: http
     behavior: classical
     path: "./XVPru.yaml"
     url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPru.yaml
     interval: 86400
-rule-providers:
+#rule-providers:
   XVPru1:
     type: http
     behavior: classical
     path: "./XVPru1.yaml"
     url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPru1.yaml
     interval: 86400
-rule-providers:
+#rule-providers:
   XVPsg:
     type: http
     behavior: classical
     path: "./XVPsg.yaml"
     url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPsg.yaml
     interval: 86400
-rule-providers:
+#rule-providers:
   XVPsg1:
     type: http
     behavior: classical
     path: "./XVPsg1.yaml"
     url: https://raw.githubusercontent.com/win877969/CLSAH/main/XVP/XVPsg1.yaml
     interval: 86400
-rule-providers:
+#rule-providers:
   XVPde:
     type: http
     behavior: classical
