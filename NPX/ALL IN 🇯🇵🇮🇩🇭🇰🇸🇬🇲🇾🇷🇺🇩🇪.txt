@@ -245,3 +245,80 @@ find-process-mode: always
 global-client-fingerprint: chrome
 rules:
 - MATCH,☢️ALL IN☢️
+rule-providers:
+  NPX:
+    type: http
+    behavior: classical
+    path: "./NPXid.yaml"
+    url: https://raw.githubusercontent.com/win877969/CLSAH/main/NPX/NPXid.yaml
+    interval: 86400
+rule-providers:
+  NPX1:
+    type: http
+    behavior: classical
+    path: "./NPXid1.yaml"
+    url: https://raw.githubusercontent.com/win877969/CLSAH/main/NPX/NPXid1.yaml
+    interval: 86400
+rule-providers:
+  NPX2:
+    type: http
+    behavior: classical
+    path: "./NPXid2.yaml"
+    url: https://raw.githubusercontent.com/win877969/CLSAH/main/NPX/NPXid2.yaml
+    interval: 86400
+rule-providers:
+  NPX3:
+    type: http
+    behavior: classical
+    path: "./NPXid3.yaml"
+    url: https://raw.githubusercontent.com/win877969/CLSAH/main/NPX/NPXid3.yaml
+    interval: 86400
+rule-providers:
+  NPX4:
+    type: http
+    behavior: classical
+    path: "./NPXml.yaml"
+    url: https://raw.githubusercontent.com/win877969/CLSAH/main/NPX/NPXml.yaml
+    interval: 86400
+rule-providers:
+  NPX5:
+    type: http
+    behavior: classical
+    path: "./NPXm1.yaml"
+    url: https://raw.githubusercontent.com/win877969/CLSAH/main/NPX/NPXml1.yaml
+    interval: 86400
+rule-providers:
+  NPX6:
+    type: http
+    behavior: classical
+    path: "./NPXru.yaml"
+    url: https://raw.githubusercontent.com/win877969/CLSAH/main/NPX/NPXru.yaml
+    interval: 86400
+rule-providers:
+  NPX7:
+    type: http
+    behavior: classical
+    path: "./NPXru1.yaml"
+    url: https://raw.githubusercontent.com/win877969/CLSAH/main/NPX/NPXru1.yaml
+    interval: 86400
+rule-providers:
+  NPX8:
+    type: http
+    behavior: classical
+    path: "./NPXsg.yaml"
+    url: https://raw.githubusercontent.com/win877969/CLSAH/main/NPX/NPXsg.yaml
+    interval: 86400
+rule-providers:
+  NPX9:
+    type: http
+    behavior: classical
+    path: "./NPXsg1.yaml"
+    url: https://raw.githubusercontent.com/win877969/CLSAH/main/NPX/NPXsg1.yaml
+    interval: 86400
+rule-providers:
+  NPX10:
+    type: http
+    behavior: classical
+    path: "./NPXde.yaml"
+    url: https://raw.githubusercontent.com/win877969/CLSAH/main/NPX/NPXde.yaml
+    interval: 86400
